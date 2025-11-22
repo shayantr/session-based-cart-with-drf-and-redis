@@ -1,0 +1,31 @@
+id,parent,name,slug,is_active,level
+1,,Phones,phones,1,0
+2,,Laptops,laptops,1,0
+3,,Tablets,tablets,1,0
+4,,Accessories,accessories,1,0
+5,,Smartwatches,smartwatches,1,0
+6,,Gaming,gaming,1,0
+7,,Audio,audio,1,0
+8,,Home Appliances,home-appliances,1,0
+9,,Networking,networking,1,0
+10,,Software,software,1,0
+11,1,Android Phones,android-phones,1,1
+12,1,iPhones,iphones,1,1
+13,2,Ultrabooks,ultrabooks,1,1
+14,2,Gaming Laptops,gaming-laptops,1,1
+15,4,Chargers,chargers,1,1
+16,4,Cases,cases,1,1
+17,4,Power Banks,power-banks,1,1
+18,7,Headphones,headphones,1,1
+19,7,Speakers,speakers,1,1
+20,6,Consoles,consoles,1,1
+21,6,Controllers,controllers,1,1
+22,3,Android Tablets,android-tablets,1,1
+23,3,iPads,ipads,1,1
+24,8,Refrigerators,refrigerators,1,1
+25,8,Vacuum Cleaners,vacuum-cleaners,1,1
+26,9,Modems,modems,1,1
+27,9,Routers,routers,1,1
+28,10,Antivirus,antivirus,1,1
+29,10,Operating Systems,operating-systems,1,1
+30,10,Office Suites,office-suites,1,1
