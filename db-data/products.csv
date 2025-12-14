@@ -1,4 +1,4 @@
-id,name,slug,description,is_digitable,is_active,created_at,updated_at,price,category
+id,name,slug,description,is_digital,is_active,created_at,updated_at,price,category_id
 1,Product 1,product-1,Sample description for product 1,0,1,2025-11-04,2025-11-04,1050000,2
 2,Product 2,product-2,Sample description for product 2,0,1,2025-11-04,2025-11-04,1100000,3
 3,Product 3,product-3,Sample description for product 3,1,1,2025-11-04,2025-11-04,1150000,4

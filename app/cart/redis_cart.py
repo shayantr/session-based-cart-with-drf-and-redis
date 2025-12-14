@@ -136,3 +136,4 @@ def update_cart_item(session_id, product_id, name, price, quantity):
     pipe.hset(details_key, product_id, json.dumps(product_data))
     pipe.hset(qty_key, product_id, quantity)
     _refresh_cart_ttl_pipe(pipe, session_id)
+    pipe.execute()

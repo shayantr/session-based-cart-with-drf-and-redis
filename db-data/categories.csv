@@ -1,4 +1,4 @@
-id,parent,name,slug,is_active,level
+id,parent_id,name,slug,is_active,level
 1,,Phones,phones,1,0
 2,,Laptops,laptops,1,0
 3,,Tablets,tablets,1,0
